@@ -1,0 +1,31 @@
+{
+  "analysis_timestamp": "2025-09-13T21:12:56.788469",
+  "data_summary": {
+    "total_consultations": 73480,
+    "total_conversions": 3360,
+    "overall_conversion_rate": 4.57,
+    "active_coaches": 96
+  },
+  "key_findings": {
+    "best_funnel": "Bot",
+    "best_funnel_rate": 6.17,
+    "best_connectivity_hour": 10,
+    "best_conversion_hour": 0,
+    "top_connectivity_hours": [
+      10,
+      9,
+      7
+    ],
+    "top_conversion_hours": [
+      0,
+      1,
+      22
+    ]
+  },
+  "segment_performance": {
+    "best_3d_segment": "Bot - NRI_Medical",
+    "best_3d_rate": 5.94,
+    "best_7d_segment": "Bot - NRI_Medical",
+    "best_7d_rate": 6.56
+  }
+}
